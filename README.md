@@ -1,4 +1,4 @@
-# StackOverflowModelUnitTests
+# Stack Overflow Model Unit Tests
 
 This project represents a basic implementation of the Stack Overflow model.
 
