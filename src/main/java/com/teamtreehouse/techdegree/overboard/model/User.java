@@ -13,7 +13,6 @@ public class User {
     private final Board board;
     private String name;
 
-
     protected User(Board board, String userName) {
         this.board = board;
         name = userName;

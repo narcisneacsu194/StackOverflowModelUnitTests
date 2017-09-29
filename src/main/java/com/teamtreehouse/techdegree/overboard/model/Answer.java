@@ -2,8 +2,6 @@ package com.teamtreehouse.techdegree.overboard.model;
 
 public class Answer extends Post {
     private Question question;
-    private User author;
-    private String text;
     private boolean isAccepted;
 
     protected Answer(Question question, User author, String text) {
