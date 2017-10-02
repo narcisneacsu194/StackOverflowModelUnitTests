@@ -35,4 +35,8 @@ public abstract class Post {
     public User getAuthor() {
         return author;
     }
+
+    public String getText(){
+        return text;
+    }
 }
